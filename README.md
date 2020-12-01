@@ -1,4 +1,4 @@
-# C-260-Cplusplus
+# CS260-Cplusplus
 
   Data structures are important to understand in order to be an efficient problem solver in IT. The project I completed called HashTable exemplifies my knowledge in C++ vectors. That same project also shows my skills in hash table structures. The project called BinarySearchTree best illustrates my knowledge in tree structures.
   

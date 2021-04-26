@@ -1,6 +1,6 @@
 # Data Structures and Algorithms Exploration Project
 
-<br><br>
+
 
 ## Data Structures
 ### Overview of Data Structures:
